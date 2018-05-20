@@ -258,6 +258,14 @@ int gcd ( int a, int b)
 }
 
 
+//Zrobic testy. Qt ma g testa.
+
+//Inspekcje fagana
+
+//Quick check  - poczytac (narzedzie do testowania)
+
+//jezyk huskle
+
 void areEqual()
 {
     Rational r1(1,2), r2(3, 6), r3(1, 3), r5(18, 6);
